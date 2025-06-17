@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm H Abhishek Bhat</h1>
-<h3 align="center">
+<h3 align="Left">
   👨‍💻 Full-Stack Developer | Java • Spring Boot • MySQL • Cloud Technologies
   🎨 Passionate Frontend Developer from India — crafting clean, responsive, and intuitive user interfaces with purpose and precision. 
   ☁️ Skilled in integrating backend logic with scalable cloud solutions (AWS | GCP | Azure), ensuring performance meets reliability. 
   💡 I don’t just write code, I engineer experiences, optimize for clarity, and deploy with confidence. 
-  ⚡ I make my code laugh before it goes into production, happy code is resilient code. 📬 Let’s build something future ready, functional, and unforgettable.</h3>
+  ⚡ I make my code laugh before it goes into production, happy code is resilient code. 
+  📬 Let’s build something future ready, functional, and unforgettable.</h3>
 
 - 🌱 I’m currently learning **Advanced Spring Boot, Microservices, Kafka,**
 
