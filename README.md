@@ -2,9 +2,7 @@
 <h3 align="center">
   👨‍💻 Full-Stack Developer | Java • Spring Boot • MySQL • Cloud Technologies
   
-  
   🎨 Passionate Frontend Developer from India — crafting clean, responsive, and intuitive user interfaces with purpose and precision. 
-  
   
   ☁️ Skilled in integrating backend logic with scalable cloud solutions (AWS | GCP | Azure), ensuring performance meets reliability. 
   
